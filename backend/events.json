@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"A new event","image":"https://alphaneural.io/assets/img/chain-knot.webp","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"asfasfas@fa.caam","password":"$2a$12$N2hUDUFFNB6MTZyN69sRKeRZR.Izb41Ahdx2Lw1yGa7ZLNjDltH5u","id":"81fb11d4-b677-4b19-b07f-60519accc4bf"},{"email":"asfasfas@fa.caams","password":"$2a$12$hRNN5t3QG/7bwI9E1GAkw.fNONjSamkCN3.9GpoKoPukgQuI/J26i","id":"6c5f5e5e-9e0f-4299-8780-739101b3e66d"},{"email":"spodeli@digitalnode.com","password":"$2a$12$lLI9gzFqHR18oj2mf/CLDej5yCe/7HCsCSgiiDFmy2S6vEymqx6g.","id":"cc3446ce-d5f5-485f-a376-13293dfc14e6"}]}
